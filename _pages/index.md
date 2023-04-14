@@ -1,4 +1,4 @@
-----
+---
 title: Manoa Link
 layout: single
 permalink: /
