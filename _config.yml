@@ -20,7 +20,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-atom-feed:
+atom_feed:
   hide: true
 
 footer:
