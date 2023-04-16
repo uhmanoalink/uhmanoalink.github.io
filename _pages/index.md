@@ -1,5 +1,5 @@
 ---
-title: Manoa Link
+title: Home Page
 layout: single
 permalink: /
 classes: wide
