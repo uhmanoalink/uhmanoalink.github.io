@@ -1,9 +1,9 @@
-title: Manoa Link
+title: Manoa L
 subtitle: Company to Student Networking Made Easy
 description: Easy Meetups in UH Manoa
 logo: '/assets/images/ManoaLinkLogo.png'
 github_username: uhmanoalink
-minimal_mistakes_skin: dark
+minimal_mistakes_skin:
 
 # Build settings
 markdown: kramdown
