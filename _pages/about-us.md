@@ -81,7 +81,7 @@ Manoa Link is an app connecting employers to prospective students.
     align-items: center;
   }
   .contributor > img {
-    max-width: 200px;
+    width: 200px;
   }
   .contributor > .major {
     font-style: italic;
