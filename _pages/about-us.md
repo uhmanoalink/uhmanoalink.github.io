@@ -15,7 +15,7 @@ Manoa Link is an app connecting employers to prospective students.
     <span class="major">Computer Science</span>
     <p>I like coding 😎</p>
     <footer>
-      <a href="https://github.com/winstonco">
+      <a href="https://github.com/winstonco" target="_blank">
         <img src="/assets/svg/github.svg" alt="Link to GitHub">
       </a>
     </footer>
@@ -26,10 +26,10 @@ Manoa Link is an app connecting employers to prospective students.
     <span class="major">My major...</span>
     <p>A description...</p>
     <footer>
-      <a href="https://github.com/">
+      <a href="https://github.com/" target="_blank">
         <img src="/assets/svg/github.svg" alt="Link to GitHub">
       </a>
-      <a href="https://twitter.com/">
+      <a href="https://twitter.com/" target="_blank">
         <img src="/assets/svg/twitter.svg" alt="Link to Twitter">
       </a>
     </footer>
