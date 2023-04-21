@@ -47,7 +47,10 @@ Manoa Link is an app connecting employers to prospective students.
     border-radius: 8px;
     padding: 1rem;
     word-wrap: wrap;
-    width: 200px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
   .contributor > .major {
     font-style: italic;
@@ -56,5 +59,9 @@ Manoa Link is an app connecting employers to prospective students.
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
+  }
+  .contributor > footer img {
+    width: 24px;
+    aspect-ratio: 1 / 1;
   }
 </style>
