@@ -1,10 +1,14 @@
-@font-face{
+@font-face {
   font-family: "Zero Hour";
   src: url('../fonts/zero-hour.otf') format('truetype');
 }
 
-main{
+#page-title {
   font-family: "Zero Hour";
   color: white;
   font-size: medium;
+}
+
+.page {
+  float: revert !important;
 }

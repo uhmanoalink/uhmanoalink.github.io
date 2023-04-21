@@ -4,8 +4,6 @@ layout: single
 permalink: /about-us
 ---
 
-# About Us
-
 Manoa Link is an app connecting employers to prospective students.
 
 ## Meet the creators:
