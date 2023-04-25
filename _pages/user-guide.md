@@ -24,7 +24,7 @@ permalink: '/user-guide'
 
 ## Introduction
 
-Welcome to the User Guide for Manoa Link. This guide is designed to provide you with a comprehensive overview of the app's features, for both students and companies.
+Welcome to the User Guide for ManoaLink. This guide is designed to provide you with a comprehensive overview of the app's features for both students and companies.
 
 ## Getting Started
 
