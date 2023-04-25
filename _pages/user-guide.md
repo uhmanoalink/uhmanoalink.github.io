@@ -58,6 +58,12 @@ At the bottom, you will also see companies that might interest you, based on the
 
 Here you can view all the job listings that have been posted. You can save any that interest you, and they will show up on your dashboard.
 
+### Company Listing
+
+![company-listing](/assets/images/m2/company-listing.png)
+
+Here you can view all the companies available on ManoaLink. This page is temorary and will be replaced by the Job Listing page as described above.
+
 ### Events Board - TODO
 
 On the Events Board, you can see all the events going on, sorted by earliest start time. You can also filter the events by a list of tags, like "Computer Science" or "Software Engineering", or you can filter by specific companies/organizations.
