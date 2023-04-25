@@ -1,5 +1,11 @@
 main:
-  - title: 'Milestone I'
-    url: /m1
-  - title: 'Milestone II'
-    url: /m2
+  - title: User Guide
+    url: /user-Guide
+  - title: Developer Guide
+    url: /developer-guide
+  - title: About User
+    url: /about-us
+  - title: FAQ
+    url: /faq
+  - title: 'Milestones'
+    url: /milestones
