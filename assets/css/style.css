@@ -1,0 +1,10 @@
+@font-face{
+  font-family: "zero hour";
+  src: url('../fonts/zero hour.otf') format('truetype');
+}
+
+main{
+  font-family: "zero hour";
+  color: white;
+  font-size: medium;
+}

@@ -12,18 +12,15 @@ $right-sidebar-width-wide: 0;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import 'minimal-mistakes'; // main partials
 
-
+/*
 @font-face{
-  font-family: "Zero Hour";
-  src: url('../fonts/zero-hour.otf') format('truetype');
+  font-family: "zero hour";
+  src: url('../fonts/zero hour.otf') format('truetype');
 }
 
-#page-title {
-  font-family: "Zero Hour";
+#ml_txt{
+  font-family: "zero hour";
   color: white;
-  font-size: $type-size-2;
+  font-size: medium;
 }
-
-.page {
-  float: revert !important;
-}
+ */

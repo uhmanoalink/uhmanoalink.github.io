@@ -1,11 +1,5 @@
 main:
-  - title: User Guide
-    url: /user-guide
-  - title: Developer Guide
-    url: /developer-guide
-  - title: About Us
-    url: /about-us
-  - title: FAQ
-    url: /faq
-  - title: 'Milestones'
-    url: /milestones
+  - title: 'Milestone I'
+    url: /m1
+  - title: 'Milestone II'
+    url: /m2
