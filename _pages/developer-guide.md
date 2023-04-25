@@ -47,7 +47,7 @@ To install this project, follow these steps:
 
     *There is another script, which may be more helpful while in development. [See below](#dev-script) for more information.*
 
-6. The app should be running at http://localhost:3000
+6. The app should be running at [http://localhost:3000](http://localhost:3000)
 
 ## Contributing
 
@@ -167,4 +167,4 @@ The app is deployed using [Meteor Up](https://meteor-up.com/). Since the require
 
 Deployment to DigitalOcean via mup is triggered automatically on pushes to the main branch.
 
-Deployment takes roughly 5-10 minutes, but will be visible at https://manoalink.site.
+Deployment takes roughly 5-10 minutes, but will be visible at [https://manoalink.site](https://manoalink.site).
