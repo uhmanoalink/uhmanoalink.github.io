@@ -10,7 +10,7 @@ Manoa Link is an app connecting employers to prospective students.
 
 <div id="contributors">
   <div class="contributor">
-    <img src="/assets/images/winston-pfp.png" alt="GitHub pfp" />
+    <img src="/assets/images/pfp/winston-pfp.png" alt="GitHub pfp" />
     <h3 class="name">Winston Co</h3>
     <span class="major">Computer Science</span>
     <p>I like coding 😎</p>
@@ -21,7 +21,7 @@ Manoa Link is an app connecting employers to prospective students.
     </footer>
   </div>
   <div class="contributor">
-    <img src="/assets/images/jared-pfp.png" alt="GitHub pfp" />
+    <img src="/assets/images/pfp/jared-pfp.png" alt="GitHub pfp" />
     <h3 class="name">Jared Lo</h3>
     <span class="major">Computer Science</span>
     <p>Super into algorithms and optimization</p>
