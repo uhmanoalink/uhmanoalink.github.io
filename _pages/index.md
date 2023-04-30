@@ -9,6 +9,10 @@ classes: wide
 
 Manoa Link is an innovative web platform designed to facilitate easy meetups between students, job seekers, and companies. It serves as a one-stop solution for students looking to connect with potential employers, explore job opportunities, and attend industry events. With dedicated interfaces for students and companies, ManoaLink streamlines the process of building relationships, fostering growth, and creating meaningful connections.
 
+[GitHub Organization](https://github.com/uhmanoalink)
+[Manoa-Link Repository](https://github.com/uhmanoalink/manoa-link)
+[Repository for this .github.io page](https://github.com/uhmanoalink/uhmanoalink.github.io)
+
 ## Key Features
 
 ### User-friendly Registration
