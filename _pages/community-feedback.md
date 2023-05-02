@@ -10,8 +10,10 @@ permalink: /community-feedback
 ## Mairi Yoshioka
 ~*Damnnnn that's pretty cool. Is that the home page? Who made that? I'm actually kinda interested in taking ICS314 now. Do you get flexibility with the projects. Oh nice, your other pages work too.*
 
-## RandomName3
-Random info 3
+## Amanda Nitta
+~*OOOOh the landing page looks nice! I like the blue button.*
+What blue button?
+*The request help button at the bottom of the page. Overall, I like the website, I like the color scheme. But I'd like to see the working product.*
 
 ## Bro I didn't ask 5 people
 Y'all help me figure it out
