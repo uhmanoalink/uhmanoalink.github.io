@@ -7,5 +7,7 @@ main:
     url: /about-us
   - title: FAQ
     url: /faq
+  - title: Community Feedback
+    url: /community-feedback
   - title: 'Milestones'
     url: /milestones
