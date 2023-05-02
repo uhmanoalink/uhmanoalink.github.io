@@ -15,8 +15,8 @@ permalink: /community-feedback
 What blue button?
 *The request help button at the bottom of the page. Overall, I like the website, I like the color scheme. But I'd like to see the working product.*
 
-## Bro I didn't ask 5 people
-Y'all help me figure it out
+## Tanner Choudhry
+~*Dude, this is awesome! This looks like something I'd see on the myUH portal! I like the idea too! I would totally use it if it were an actual thing.*
 
-## This is number 5
-Screw it I'm making a PR, y'all gotta fill this out cus I did not ask 5 people lmao
+## Noah Clay @ 5AM today
+~*This site is the comp sci equivalent of "set dressing" in movies. You're hiding the spotty functionality of your project behind a cool logo and homepage with moving pictures. I respect it, but y'alls got a long way to go. There, Prayag. Can I go back to sleep now?*
