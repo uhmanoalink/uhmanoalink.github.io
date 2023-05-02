@@ -32,30 +32,24 @@ Manoa Link is an app connecting employers to prospective students.
     </footer>
   </div>
   <div class="contributor">
-    <img src="My image..." alt="GitHub pfp" />
-    <h3 class="name">My name...</h3>
-    <span class="major">My major...</span>
-    <p>A description...</p>
+    <img src="/assets/images/pfp/prayag-pfp.png" alt="GitHub pfp" />
+    <h3 class="name">Prayag Das</h3>
+    <span class="major">Computer Science</span>
+    <p>I'm super into coding and app/game design XD</p>
     <footer>
-      <a href="https://github.com/" target="_blank">
+      <a href="https://github.com/Prayag-Das" target="_blank">
         <img src="/assets/svg/github.svg" alt="Link to GitHub">
-      </a>
-      <a href="https://twitter.com/" target="_blank">
-        <img src="/assets/svg/twitter.svg" alt="Link to Twitter">
       </a>
     </footer>
   </div>
   <div class="contributor">
-    <img src="My image..." alt="GitHub pfp" />
-    <h3 class="name">My name...</h3>
-    <span class="major">My major...</span>
-    <p>A description...</p>
+    <img src="https://avatars.githubusercontent.com/u/96459232?v=4" alt="GitHub pfp" />
+    <h3 class="name">Honggun Jeon</h3>
+    <span class="major">Computer Science</span>
+    <p>-----</p>
     <footer>
-      <a href="https://github.com/" target="_blank">
+      <a href="https://github.com/gitCarrot" target="_blank">
         <img src="/assets/svg/github.svg" alt="Link to GitHub">
-      </a>
-      <a href="https://twitter.com/" target="_blank">
-        <img src="/assets/svg/twitter.svg" alt="Link to Twitter">
       </a>
     </footer>
   </div>
