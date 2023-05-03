@@ -24,7 +24,7 @@ permalink: '/user-guide'
 
 ## Introduction
 
-<img width="250px" class="rounded float-start pe-4" src="/assets/images/studentPage/landing.png" >
+![company-listing](/assets/images/studentPage/landing.png)
 
 
 Welcome to the User Guide for Manoa Link. This guide is designed to provide you with a comprehensive overview of the app's features, for both students and companies.
@@ -59,8 +59,7 @@ At the bottom, you will also see companies that might interest you, based on the
 
 ### Job Listings
 
-<img width="250px" class="rounded float-start pe-4" src="/assets/images/studentPage/jobListings.png" >
-
+![company-listing](/assets/images/studentPage/jobListings.png)
 
 Here you can view all the job listings that have been posted. You can save any that interest you, and they will show up on your dashboard.
 
@@ -72,8 +71,7 @@ Here you can view all the companies available on ManoaLink. This page is temorar
 
 ### Events Board
 
-<img width="250px" class="rounded float-start pe-4" src="/assets/images/studentPage/eventsBoard.png" >
-
+![company-listing](/assets/images/studentPage/eventsBoard.png)
 
 On the Events Board, you can see all the events going on, sorted by earliest start time. You can also filter the events by a list of tags, like "Computer Science" or "Software Engineering", or you can filter by specific companies/organizations.
 
@@ -83,9 +81,7 @@ On any job listing or event, clicking on the company that created it will take y
 
 ### Profile
 
-![student-profile](/assets/images/m2/student-profile.png)
-<img width="250px" class="rounded float-start pe-4" src="/assets/images/studentPage/profile.png" >
-
+![student-profile](/assets/images/studentPage/profile.png)
 
 In your profile, you can see how your profile looks to recruiters, and edit your account information. You can update your profile picture, name, login information, etc.
 
@@ -93,16 +89,13 @@ In your profile, you can see how your profile looks to recruiters, and edit your
 
 ## For Companies
 
-<img width="250px" class="rounded float-start pe-4" src="/assets/images/companyPage/companyProfile.png" >
-
+![company-dashboard](/assets/images/companyPage/companyProfile.png)
 
 Reaching students with new job postings and upcoming events can be very difficult. Manoa Link streamlines the process of sharing these with prospective student interns and new hires.
 
 ### Dashboard
 
-![company-dashboard](/assets/images/m2/company-dashboard.png)
-
-<img width="250px" class="rounded float-start pe-4" src="/assets/images/studentPage/StudentDashboard.png" >
+![company-dashboard](/assets/images/studentPage/StudentDashboard.png)
 
 On your dashboard, you can see your upcoming events in a table, as well as on a calendar widget, allowing you to easily make plans around these events. You can export the calendar to the calendar app of choice, making it easy to keep track of what's next.
 
@@ -110,13 +103,13 @@ You can also see your job listings, grouped by common tags. Each job listing has
 
 ### Manage Listings
 
-<img width="250px" class="rounded float-start pe-4" src="/assets/images/companyPage/postListing.png" >
+![company-dashboard](/assets/images/companyPage/postListing.png)
 
 Here, companies can add/edit their job listings, which is made available for students to see in their 'job listings' page.
 
 ### Manage Events
 
-<img width="250px" class="rounded float-start pe-4" src="/assets/images/companyPage/manageEvents.png" >
+![company-dashboard](/assets/images/companyPage/manageEvents.png)
 
 Here, companies can add/edit upcoming events for students who are interested in learning more about what opportunities are available to them.
 
