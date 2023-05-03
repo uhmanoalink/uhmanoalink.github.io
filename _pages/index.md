@@ -16,6 +16,9 @@ Manoa Link is an innovative web platform designed to facilitate easy meetups bet
 - [GitHub Organization](https://github.com/uhmanoalink)
 - [Manoa Link App Repository](https://github.com/uhmanoalink/manoa-link)
 - [Manoa Link Docs Repository](https://github.com/uhmanoalink/uhmanoalink.github.io)
+- [M1 Project Board](https://github.com/orgs/uhmanoalink/projects/1)
+- [M2 Project Board](https://github.com/orgs/uhmanoalink/projects/2)
+- [M3 Project Board](https://github.com/orgs/uhmanoalink/projects/3)
 
 ## Key Features
 
