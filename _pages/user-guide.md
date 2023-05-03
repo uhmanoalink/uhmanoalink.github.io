@@ -54,7 +54,7 @@ You can also see any jobs you have saved. Once you are ready to apply, click "Ap
 
 At the bottom, you will also see companies that might interest you, based on the tags of your saved jobs, events, and followed companies.
 
-### Job Listings - TODO
+### Job Listings
 
 Here you can view all the job listings that have been posted. You can save any that interest you, and they will show up on your dashboard.
 
@@ -64,15 +64,15 @@ Here you can view all the job listings that have been posted. You can save any t
 
 Here you can view all the companies available on ManoaLink. This page is temorary and will be replaced by the Job Listing page as described above.
 
-### Events Board - TODO
+### Events Board
 
 On the Events Board, you can see all the events going on, sorted by earliest start time. You can also filter the events by a list of tags, like "Computer Science" or "Software Engineering", or you can filter by specific companies/organizations.
 
-### Company Pages - TODO
+### Company Pages
 
 On any job listing or event, clicking on the company that created it will take you to their profile, where you can see more information about the company. You can follow companies to get notified when they post new jobs or events. They will also automatically show up on your dashboard.
 
-### Profile - TODO
+### Profile
 
 ![student-profile](/assets/images/m2/student-profile.png)
 
@@ -84,7 +84,7 @@ In your profile, you can see how your profile looks to recruiters, and edit your
 
 Reaching students with new job postings and upcoming events can be very difficult. Manoa Link streamlines the process of sharing these with prospective student interns and new hires.
 
-### Dashboard - TODO
+### Dashboard
 
 ![company-dashboard](/assets/images/m2/company-dashboard.png)
 
@@ -92,9 +92,13 @@ On your dashboard, you can see your upcoming events in a table, as well as on a 
 
 You can also see your job listings, grouped by common tags. Each job listing has a badge showing how many students saved the job, so you can see what kinds of jobs are most popular.
 
-### Manage Listings - TODO
+### Manage Listings
 
-### Manage Events - TODO
+Here, companies can add/edit their job listings, which is made available for students to see in their 'job listings' page.
+
+### Manage Events
+
+Here, companies can add/edit upcoming events for students who are interested in learning more about what opportunities are available to them.
 
 ## Troubleshooting
 
