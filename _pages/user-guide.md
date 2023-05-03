@@ -105,13 +105,17 @@ You can also see your job listings, grouped by common tags. Each job listing has
 
 ![company-dashboard](/assets/images/companyPage/postListing.png)
 
-Here, companies can add/edit their job listings, which is made available for students to see in their 'job listings' page.
+On your Manage Listings page, you can create new job listings to share with prospective students and colleagues. Under the form for adding these listings, your page will display all the job listings you've uploaded prior.
+
+In the future, you will also be able to edit and remove job listings. Furthermore, you will be able to optionally exclude certain fields, and have default values. For instance, if you opt not to provide a website for your specific job listing, you can have the website field default to your main company website.
 
 ### Manage Events
 
 ![company-dashboard](/assets/images/companyPage/manageEvents.png)
 
-Here, companies can add/edit upcoming events for students who are interested in learning more about what opportunities are available to them.
+On your Manage Events page, you'll see that it looks quite similar to the Events Board in the student view. However, your Events Board is unique to you, and will only display the events that your company has uploaded in the past. Once again, your company will have both a board for upcoming events and past events.
+
+In addition, you'll notice that you have an Add Event button to create new events that can be viewed publicly. There is also a filter section that will allow you to filter your events via tags.
 
 ## Troubleshooting
 
