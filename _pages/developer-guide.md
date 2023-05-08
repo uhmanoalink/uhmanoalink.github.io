@@ -25,27 +25,27 @@ To install this project, follow these steps:
 
 1. Clone the [Manoa Link](https://github.com/uhmanoalink/manoa-link) repository to your local machine
 
-    `git clone https://github.com/uhmanoalink/manoa-link.git`
+   `git clone https://github.com/uhmanoalink/manoa-link.git`
 
-    *Note: You can also use the GitHub Desktop app*
+   _Note: You can also use the GitHub Desktop app_
 
 2. Install [Meteor](https://docs.meteor.com/install.html)
 
-    *We recommend using Node 14 and disabling security checks for the root directory.*
+   _We recommend using Node 14 and disabling security checks for the root directory._
 
 3. `cd` into the app directory
 
-    *The* `app/` *directory is where npm and Meteor packages are installed.*
+   _The_ `app/` _directory is where npm and Meteor packages are installed._
 
 4. Install dependencies with `meteor npm install`
 
-    *Make sure you are in the app directory before you install packages.*
+   _Make sure you are in the app directory before you install packages._
 
 5. Start the app with `meteor npm start`
 
-    *In Meteor, npm commands should be run starting with* `meteor`. *According to the docs, it is especially important to ensure the build for certain binaries is consistent. For more information, [see the docs](https://docs.meteor.com/commandline.html#meteornpm).*
+   _In Meteor, npm commands should be run starting with_ `meteor`. _According to the docs, it is especially important to ensure the build for certain binaries is consistent. For more information, [see the docs](https://docs.meteor.com/commandline.html#meteornpm)._
 
-    *There is another script, which may be more helpful while in development. [See below](#dev-script) for more information.*
+   _There is another script, which may be more helpful while in development. [See below](#dev-script) for more information._
 
 6. The app should be running at [http://localhost:3000](http://localhost:3000)
 
@@ -93,13 +93,13 @@ Each subdirectory has its own "import file" that imports the others in that subd
 E.g. `__globals.scss`:
 
 ```scss
-@import "./colors";
-@import "./typography";
+@import './colors';
+@import './typography';
 @import './variables';
 @import './utilities';
 ```
 
-Components and pages should have their own Sass files. Imported Sass files should start with an underscore (_) to mark it as a "partial", meaning a file that will only be imported. Be sure to import your new Sass file in the appropriate "import file".
+Components and pages should have their own Sass files. Imported Sass files should start with an underscore (\_) to mark it as a "partial", meaning a file that will only be imported. Be sure to import your new Sass file in the appropriate "import file".
 
 The main `style.scss` file imports the "import files". It is automatically compiled to `style.css` once if you start the app with `meteor npm start`, and continuously if you run `meteor npm run dev`.
 

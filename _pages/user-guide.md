@@ -12,20 +12,20 @@ permalink: '/user-guide'
   - [Dashboard](#dashboard)
     - [Upcoming events and saved jobs](#upcoming-events-and-saved-jobs)
     - [Companies you might be interested in](#companies-you-might-be-interested-in)
-  - [Job Listings - TODO](#job-listings---todo)
-  - [Events Board - TODO](#events-board---todo)
-  - [Company Pages - TODO](#company-pages---todo)
-  - [Profile - TODO](#profile---todo)
+  - [Job Listings](#job-listings)
+  - [Company Listing](#company-listing)
+  - [Events Board](#events-board)
+  - [Company Pages](#company-pages)
+  - [Profile](#profile)
 - [For Companies](#for-companies)
-  - [Dashboard - TODO](#dashboard---todo)
-  - [Manage Listings - TODO](#manage-listings---todo)
-  - [Manage Events - TODO](#manage-events---todo)
+  - [Dashboard](#dashboard-1)
+  - [Manage Listings](#manage-listings)
+  - [Manage Events](#manage-events)
 - [Troubleshooting](#troubleshooting)
 
 ## Introduction
 
 ![company-listing](/assets/images/studentPage/landing.png)
-
 
 Welcome to the User Guide for Manoa Link. This guide is designed to provide you with a comprehensive overview of the app's features, for both students and companies.
 
